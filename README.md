@@ -1,0 +1,2 @@
+# AspnetCoreWithdocker
+Demo for  docker
